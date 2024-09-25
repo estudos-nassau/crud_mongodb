@@ -6,8 +6,8 @@ Este projeto consiste em uma aplicação web CRUD (Create, Read, Update, Delete)
 ## Configuração
 Clone o repositório:
 ```
-git clone https://github.com/kaariny/CRUD_mongoDB.git
-cd CRUD_mongoDB
+git clone https://github.com/estudos-nassau/crud_mongodb.git
+cd crud_mongodb
 ```
 **Crie um ambiente virtual (opcional, mas recomendado):**
 ```
